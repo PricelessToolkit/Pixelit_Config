@@ -9,10 +9,9 @@
 1x LED Matrix 8x32 WS2812B
 
 1x ESP D1 Mini
-
 1x 10kohm resistor
-
 1x LDR GL5516
+1x 1000uf 6.3v Capacitor
 
 
 # Node-RED Flows
